@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Logging Tool used by SHPS",
     "author": "Marco Alka <me@marco-alka.de>",
-    "main": "index-log.js"
+    "main": "index-log.js",
     "dependencies": {
         "colors": ">=0.6.0 < 2",
         "logrotate-stream": "0.2.0 - 0.2.5",
